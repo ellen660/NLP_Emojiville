@@ -1,0 +1,501 @@
+Tokens,Sentiment_score,Sentiment_emotion,Part_of_speech
+"['agreed', '😏']",1,Joy,ADJ
+"['i', 'like', 'red', 'dawn', '.', 'cold', 'war', 'era', 'i', 'am', 'lol', '😂']",1,Joy,VERB
+"['how', 'does', 'all', 'all', 'that', 'opera', ',', 'theatre', ',', 'dance', 'and', 'music', 'squeeze', 'into', 'a', 'box', 'like', 'this', '?', '!', '🤔', 'we', ""can't"", 'wait', 'to', 'share', 'the', '2018']",-1,Disgust,ADJ
+"[""can't"", 'make', 'a', 'come', 'back', 'but', 'his', 'debut', 'album', 'was', '🔥']",1,Joy,ADJ
+"['asstray', '💙']",1,Love,ADJ
+"['that', 'is', 'so', 'nice', '!', 'it', 'was', 'lovely', 'to', 'meet', 'you', '!', '😽']",1,Love,VERB
+"['please', '!', '!', '🙏']",-1,Anger,VERB
+"['big', 'time', 'shannon', '!', ':)', '👍']",1,Joy,ADJ
+"['vote', '🗳', 'fulfulde', 'translation', '.', 'thanks', 'to', 'the', 'translation', 'team', 'for', 'making', 'this', 'happen', '.', 'great', 'citizens', ',', 'great', 'team', '!']",1,Joy,NOUN
+"['u', 'know', '💘']",1,Love,NOUN
+"['braving', 'the', 'weather', '😀']",1,Joy,VERB
+"['another', 'pair', 'for', 'the', 'collection', '😬']",-1,Disgust,ADJ
+"['good', 'thread', '.', 'mudah', 'faham', '.', 'thank', 'you', 'girl', '😘']",1,Love,VERB
+"['fuck', '!', 'i', 'thought', 'i', 'was', 'past', 'these', 'nightmares', '.', '😔']",-1,sadness,ADJ
+"['we', '‘', 're', 'still', 'live', '!', '😏']",1,Joy,ADJ
+"['russia', 'has', 'more', 'free', 'speech', 'than', 'the', 'us', '.', 'can', 'you', 'imagine', 'us', 'media', 'talking', 'about', 'jews', 'like', 'this', '?', '😅']",1,Joy,ADJ
+"['[', 'pic', ']', '180303', 'eℓyxion', 'in', 'singapore', '©', 'arashi_icy', '(', 'd', '.', 'o', '.', ')']",0,Surprise,PUNCT
+"['leah', ',', 'sf', 'bay', 'area', 'is', 'being', 'blasted', 'by', 'scientology', 'recently', '.', 'scared', 'for', 'impressionable', 'young', 'people', '😬', 'please', '…']",-1,Fear,ADJ
+"['sometimes', 'i', 'am', 'really', 'proud', 'of', 'my', 'mother', 'she', 'gets', 'things', 'done', 'despite', 'the', 'obstacles', 'she', 'confronts', 'due', 'to', 'aging', '.', '💞']",1,Love,NOUN
+"['short-game', 'has', 'been', 'on', 'point', 'at', 'bay', 'hill', '.', '💯']",1,Joy,ADJ
+"['mindless', '4miles', '125', '❤', '️s', '!', 'your', 'tweet', 'has', 'been', 'liked', 'by', '125', 'people', '.']",1,Love,NOUN
+"['tug', 'on', 'my', 'heart', 'strings', 'will', 'ya', '?', '😹']",1,Joy,VERB
+"['a', 'jealous', 'girlfriend', 'can', 'also', 'cheat', 'and', 'still', 'be', 'jealous', 'and', 'act', 'like', 'she', 'faithful', '😂']",1,Joy,VERB
+"['i', '’', 've', 'only', 'ever', 'tried', 'latte', '-', 'both', 'hot', 'and', 'cold', '!', 'it', '’', 's', 'good', '😊']",1,Joy,ADJ
+"['i', '’', 've', 'realized', 'the', 'only', 'way', 'i', 'make', 'friends', 'in', 'my', 'classes', 'is', 'bonding', 'over', 'the', 'fact', 'that', 'we', 'want', 'to', 'drop', 'out', 'of', 'college', '😂']",1,Joy,VERB
+"['chris', 'brown', '-', 'say', 'goodbye', '.', 'this', 'will', 'never', 'ever', 'ever', 'get', 'old', '😭']",-1,Sadness,VERB
+"['this', 'was', 'my', 'favorite', 'childhood', 'movie', '😭']",-1,Sadness,VERB
+"['🤔', 'pastor', 'kayanja', 'in', 'kampala', 'has', 'awoken', 'two', 'people', 'from', 'the', 'mulago', 'mortuary', 'today', 'at', 'mulago', '.', 'the', 'two', 'ar', '…']",-1,Disgust,ADJ
+"['why', 'you', 'ain', '’', 't', 'build', 'my', 'damn', 'teleportation', 'machine', 'yet', '!', '!', '!', '💔']",-1,Sadness,NOUN
+"['sneakershouts', ':', 'flash', 'sale', '⚡', '️', '40', '%', 'off', '+', 'free', 'shipping', 'on', 'the', 'nike', 'pg', '1', '""', 'black', 'gum', '""', 'buy', 'here', ':', '…']",1,Joy,PUNCT
+"['“', 'ashley', 'will', 'you', 'go', 'to', 'prom', 'with', 'me', '?', '”', 'hehe', 'i', 'got', 'asked', 'to', 'prom', 'today', '!', 'all', 'i', 'can', 'say', 'is', 'that', 'i', 'loved', 'it', '!', '💗', 'than', '…']",1,Love,NOUN
+"['match', 'off', 'unsurprisingly', ""today's"", 'match', 'is', 'off', 'due', 'to', 'a', 'frozen', 'and', 'snow', 'covered', 'pitch', '☹', '️']",-1,sadness,ADJ
+"['morning', 'elena', '🌹', 'xx']",1,Love,NOUN
+"['sexy', 'dance', '!', '!', '💕']",1,Love,ADJ
+"['and', 'that', 'is', 'called', ""'"", 'sexual', 'harassment', ""'"", 'sisi', '😩']",-1,Sadness,VERB
+"['these', 'niggas', 'haven', '’', 't', 'gotten', 'tired', 'of', 'clout', 'chasing', 'yet', '?', '😔']",-1,Sadness,ADJ
+"['in', 'time', ',', 'tho', '.', '👇']",0,Surprise,ADP
+"['imagine', 'lapis', 'sings', 'this', 'to', 'peri', '😏']",1,Joy,ADJ
+"['imagine', 'watching', 'that', 'during', 'ramadan', '😭']",-1,Sadness,VERB
+"['🤔', 'close', 'enough', '...']",-1,Disgust,ADJ
+"['follow', 'everyone', 'who', 'retweets', 'this', '📢', '<', '>', '>', '<']",0,Surprise,NOUN
+"[""i'm"", 'tired', 'asfff', '😭']",-1,Sadness,VERB
+"['niggas', 'all', 'this', 'freeband', 'but', 'still', 'onna', 'bus', '🤨']",-1,Disgust,ADJ
+"['💋', 'smile', 'more', 'your', 'energy', 'shifts']",1,Love,NOUN
+"['how', 'is', 'it', 'that', 'i', 'am', 'still', 'breaking', '?', '💔']",-1,Sadness,NOUN
+"['ipl', 'fever', '🤒']",-1,Sadness,ADJ
+"['ples', 'i', 'wanna', 'eat', 'jollibee', 'and', 'biggs', 'na', '😭']",-1,Sadness,VERB
+"['the', 'message', 'is', 'clear', ':', ""let's"", 'forgive', 'racist', 'cops', '!', '😂']",1,Joy,VERB
+"['i', '’', 've', 'got', 'something', 'to', 'tell', 'you', ',', 'i', '’', 'm', 'obsessed', 'with', 'this', 'song', '💜']",1,Love,ADJ
+"['thank', 'you', ',', 'i', 'love', 'you', 'too', '!', '💛']",1,Love,ADJ
+"['what', 'my', 'dad', 'says', 'after', 'my', 'perfect', 'dumplings', '😄']",1,Joy,VERB
+"['come', 'on', '!', 'join', 'support', '!', '♥', '63214edwqt62']",1,Love,NOUN
+"['quicc', 'sketch', '🎭']",0,Surprise,NOUN
+"['just', 'consider', 'it', 'a', 'nice', 'surprise', 'for', 'the', 'person', 'receiving', 'the', 'email', '.', '😂']",1,Joy,VERB
+"['mmmm', 'very', 'sexy', '😉']",1,Joy,ADJ
+"['wanted', 'to', 'go', 'down', '2', 'clothes', 'sizes', '&', 'i', 'think', 'im', 'down', '1', '!', 'ordered', 'new', 'stuff', '1', 'size', 'down', '&', 'it', 'all', 'fits', 'nice', 'so', 'ima', 'go', 'with', 'it', '🙂']",1,Joy,ADJ
+"['i', 'heard', 'the', 'new', 'deltas', 'will', 'be', 'making', 'an', 'appearance', 'tomorrow', '👀']",0,Surprise,VERB
+"['the', 'places', 'were', 'blue', 'skies', 'meet', 'blue', 'waters', 'are', 'always', 'something', 'special', '💙']",1,Love,ADJ
+"['happy', 'born', 'day', 'to', 'one', 'of', 'my', 'first', 'crushes', 'who', 'brought', 'me', 'to', 'this', 'fandom', '💕']",1,Love,NOUN
+"['youuuuu', 'know', 'you', 'can', '’', 't', 'get', 'over', 'me', '🗣']",0,Surprise,NOUN
+"['lol', 'i', 'did', 'too', '😂']",1,Joy,VERB
+"['happy', '6th', 'anniversary', 'i', 'will', 'take', 'national', 'exam', 'tomorrow', ',', 'wish', 'me', 'luck', 'eris', '!', '!', 'please', 'give', 'me', 'strength', '💪']",1,Joy,ADJ
+"['see', 'you', 'in', 'february', '😭']",-1,Sadness,VERB
+"['focus', 'on', 'me', '🖤']",1,Love,NOUN
+"['well', 'i️m', 'going', 'to', 'vegas', 'in', 'friday', 'so', 'whatever', '.', '🙄']",-1,Disgust,ADJ
+"['follow', 'everyone', 'who', 'retweets', 'this', '🌊', '>']",0,Surprise,NOUN
+"[""byul's"", 'wish', 'to', 'meet', 'yunho', 'someday', ',', 'even', 'in', ""youtube's"", 'thumbnails', '😂']",1,Joy,VERB
+"['all', 'free', 'tickets', '&', 'food', '🥘']",1,Joy,NOUN
+"['i', 'miss', 'you', 'gf', '☹', '️']",-1,sadness,ADJ
+"['i', ""can't"", 'go', 'to', 'sleep', 'without', 'talking', 'to', 'my', 'bf', '🙄']",-1,Disgust,ADJ
+"['kwangmin', 'are', 'doing', 'the', 'posing', 'like', 'a', 'cool', 'man', 'again', '😅']",1,Joy,VERB
+"['some', 'people', 'will', 'never', 'learn', '...', '🙄']",-1,Disgust,ADJ
+"['collage', 'of', 'and', '☺', '.']",1,Joy,PUNCT
+"['the', 'doctor', 'is', 'out', '...', 'fanboying', '.', 'achievement', 'unlocked', 'si', 'doc', '.', '😊']",1,Joy,ADJ
+"['dark', 'days', '&', 'sleepless', 'nights', 'for', 'the', 'villain', 'of', '5th', 'ave', ',', 'lately', 'holed', 'up', 'at', '1600', 'penn', ',', 'dc', '..', 'only', '🦊', 'to', 'keep', 'him', 'co', '…']",0,Surprise,NOUN
+"[""we're"", 'here', 'jamming', 'with', 'for', '🎶']",1,Joy,NOUN
+"['i', 'am', 'in', 'the', 'clouds', '.', '🌥', 'my', 'sincerest', 'gratitude', 'to', 'and', 'for', 'granting', 'me', 'this', 'opportunity', 'to', 'work', 'with', '…']",1,Joy,NOUN
+"['i', '’', 'm', 'big', 'bored', '😩']",-1,Sadness,ADJ
+"['found', 'our', 'next', 'workout', '🤣']",1,Joy,VERB
+"['rare', 'picture', 'of', 'modi', 'ji', ',', 'not', 'looking', 'at', 'camera', '.', '🙏', '[', '2018', ']']",-1,Anger,VERB
+"['we', 'need', 'to', 'appreciate', 'the', 'armys', 'like', 'this', 'who', 'go', 'above', 'and', 'beyond', 'for', 'us', 'to', 'enjoy', 'bts', 'in', 'all', 'kinds', 'of', 'ways', '💕']",1,Love,NOUN
+"['and', ""doesn't"", 'look', 'like', 'you', '.', 'pine', 'however', '...', '😜']",1,Joy,ADJ
+"['trust', 'him', 'bcs', 'he', 'is', 'the', 'best', 'planner', '❤']",1,Love,VERB
+"['always', 'me', '💞']",1,Love,NOUN
+"['he', 'is', 'in', 'my', 'book', '🤣']",1,Joy,VERB
+"['boo', 'bish', '!', '!', '!', 'did', 'you', 'scream', '?', '😜', '(', 'on', 'a', 'serious', 'note', ':', 'the', 'fact', 'that', 'i', 'scare', 'you', 'is', 'precisely', 'why', 'you', 'fools', 'don', '’', 't', 'need', 'guns', ')', 'htt', '…']",1,Joy,VERB
+"['‘', 'some', '’', 'of', 'the', 'shoulders', 'because', 'we', 'know', '🌚']",0,Surprise,NOUN
+"['i', 'gotta', 'get', 'my', 'nose', 're', 'pierced', 'before', 'kalahari', '😏']",1,Joy,ADJ
+"['let', 'it', 'go', 'k', '.', 'she', ""didn't"", 'mean', 'to', 'hurt', 'u', 'bro', '❤']",1,Love,VERB
+"['""', 'i', 'told', 'hoddle', 'where', 'to', 'shove', 'england', 'b', '!', '""', '😡', '""', 'he', 'said', ""i'd"", 'never', 'play', 'for', 'england', 'again', '...', 'he', 'was', 'quite', 'right', '!', '""']",-1,Anger,ADJ
+"['by', 'this', 'clip', 'it', 'looks', 'like', 'i', 'just', 'won', 'the', 'championship', '.', '😂', 'i', 'am', 'just', 'so', 'excited', 'to', 'get', 'that', 'one', 'done', 'after', 'crashing', 'out', 'of', '…']",1,Joy,VERB
+"['not', 'da', 'type', 'nigga', 'u', 'can', 'just', 'play', 'wit', '💯']",1,Joy,ADJ
+"['familiar', 'misery', 'vs', 'foreign', 'happiness', '🤔']",-1,Disgust,ADJ
+"['so', 'you', 'waste', 'your', 'thoke', 'on', 'a', 'nigga', 'you', 'don', '’', 't', 'like', '...', '😒']",-1,Disgust,ADJ
+"['yeah', 'she', 'definitely', 'is', 'lol', '💙']",1,Love,ADJ
+"['best', 'european', 'camgirl', '!', '❤', '️', 'x']",1,Love,VERB
+"['what', 'kind', 'of', 'mood', 'is', 'this', '?', '😂']",1,Joy,VERB
+"['no', 'words', '...', 'but', 'bloody', 'good', 'legs', '!', '🤠', ""l'artiste"", '!']",1,Joy,ADJ
+"['molly', 'clearly', 'finds', 'a', 'job', ',', 'medical', 'insurance', ',', '&', '401k', 'attractive', '😂', 'i', ""can't"", 'with', 'her']",1,Joy,VERB
+"['yeah', 'power', '!', '!', '💕']",1,Love,NOUN
+"['my', 'son', 'gone', 'boo', 'boo', 'then', 'fall', 'asleep', '😐']",0,Surprise,ADJ
+"['anyone', 'who', 'has', 'followed', 'you', 'more', 'than', 'a', 'few', 'months', 'knows', 'this', 'is', 'just', 'how', 'you', 'roll', '.', '🤣']",1,Joy,VERB
+"['absolutely', 'hilarious', 'nooresh', '👍']",1,Joy,ADJ
+"['soooo', 'deadline', 'ends', 'today', '.', ""i'm"", 'so', 'happy', 'about', 'starting', 'this', 'one', '.', 'this', 'is', 'sab', 'from', 'avocat', '❤', '️']",1,Love,VERB
+"['speak', 'it', 'into', 'existence', '🗣']",1,Joy,NOUN
+"['""', ""it's"", 'thanks', 'to', ""i'm"", 'here', '.', '""', '💕']",1,Love,PUNCT
+"[""i'm"", 'voting', 'for', 'for', 'the', '💕']",1,Love,NOUN
+"['judging', 'myself', '😩']",-1,Sadness,VERB
+"['where', 'are', 'you', 'all', '?', '👀', 'you', 'were', 'doing', 'an', 'amazing', 'job', 'this', 'week', ',', 'let', '’', 's', 'keep', 'going', '!', 'send', 'us', 'screenshots', 'of', 'your', 'streams', '(', 'spo', '…']",0,Surprise,VERB
+"['and', 'obama', 'is', 'now', 'doing', 'the', 'same', '..', 'his', 'own', 'obama', 'foundation', '😎']",1,Joy,ADJ
+"['no', '🍆', 'is', 'bigger', 'than', 'a', ""baby's"", 'head', 'so', 'stop', 'screaming', 'during', 'sex', 'its', 'childish', '!', '!', '!']",-1,Disgust,NOUN
+"['lmfaoooo', 'ik', 'thats', 'what', 'make', 'it', 'so', 'damn', 'funny', '😂']",1,Joy,VERB
+"['happy', 'april', 'the', '1st', '🙄']",-1,Disgust,ADJ
+"['we', 'did', 'it', '👊', 'thanks', 'for', 'shaking', 'up', 'dubai', 'with', 'so', 'much', 'love', 'and', 'postive', 'energy', '!', 'congrats', 'to']",1,Joy,ADJ
+"['having', 'me', 'shoot', 'a', 'vikings', 'tribute', 'freeverse', 'video', 'beforehand', 'and', 'drop', 'that', 'ish', 'last', 'night', '😑']",-1,Disgust,ADJ
+"['miss', 'you', 'alreadyyyyy', '😘']",1,Love,VERB
+"['""', 'exclusive', '""', '😂', 'and', 'and', 'same', 'photo', 'you', 'used', 'but', '…']",1,Joy,VERB
+"['would', 'be', 'more', 'excited', 'if', 'pikachu', 'will', 'be', 'standing', 'on', 'a', 'surfboard', '🤣']",1,Joy,VERB
+"['a', 'very', 'special', 'of', 'the', 'kind', '~', '♥', '️']",1,Love,NOUN
+"['headed', '🏠', 'to', 'on', 'saturday', '.', 'nyk', '101', 'phi', '118', '22p', '|', '8r', '22p', '|', '4r', '18p', '|', '6', '…']",1,Joy,NOUN
+"['lmao', 'kfans', 'are', 'saying', 'they', 'cant', 'even', 'chant', 'the', 'members', ""'"", 'names', 'right', 'on', 'time', 'during', 'touch', 'what', 'more', 'for', 'black', 'on', 'black', '😂']",1,Joy,VERB
+"[""i'm"", 'so', 'proud', 'of', 'you', '❤', '️']",1,Love,VERB
+"['well', 'won', 'for', '""', 'insecure', '""', 'in', 'our', 'heart', '💕']",1,Love,NOUN
+"['thank', 'you', 'so', 'much', 'for', 'today', ',', ""mcdonald's"", 'mayapa', 'naman', 'tomorrow', '!', '❤']",1,Love,VERB
+"['the', 'only', 'way', '💫']",1,Joy,NOUN
+"['muhammad', 'nawaz', '>', '>', '>', 'imad', 'wasim', 'all', 'day', 'everyday', '😴']",-1,Sadness,ADJ
+"['it', '’', 's', 'ok', 'u', 'can', 'say', 'something', 'about', '619', 'i', '’', 'll', 'take', 'it', '😢']",-1,Sadness,ADJ
+"['good', 'man', 'rory', '👍']",1,Joy,ADJ
+"['that', '’', 's', 'the', 'title', '.', '😂']",1,Joy,VERB
+"['this', 'day', 'and', 'week', '.', '🏆']",1,Joy,NOUN
+"['i', 'wish', 'i', 'was', 'thick', 'but', 'whatever', ',', 'hey', 'y', '’', 'all', '😂']",1,Joy,VERB
+"['vote', 'for', 'us', '🤩']",1,Joy,VERB
+"['by', 'your', 'side', '🌻']",1,Love,NOUN
+"['i', '’', 'm', 'chilling', '😇']",1,Joy,ADJ
+"['this', 'wheelchair', 'ramp', '.', '😤']",-1,Anger,ADJ
+"['thank', 'you', 'for', 'memory', 'like', 'these', '❤', '️', 'we', 'love', 'you', 'dhoni']",1,Love,VERB
+"['good', 'morning', 'everyone', '😃']",1,Joy,ADJ
+"['🙄', 'annoyed']",-1,Disgust,ADJ
+"['i', 'probably', 'would', '’', 've', 'ended', 'up', 'twerking', 'hitting', 'that', 'split', '😂']",1,Joy,VERB
+"['oh', 'no', '!', 'i', 'hope', 'not', '!', '😱', 'from', 'what', 'i', 'hear', 'the', 'bach', 'is', 'going', 'to', 'be', 'crazy', 'tomorrow', 'night', '!']",-1,Fear,ADJ
+"['please', 'increase', 'the', 'window', '.', '😂']",1,Joy,VERB
+"['in', 'my', 'opinion', ',', 'magna', 'carta', 'production', 'is', 'heavily', 'underappreciated', '🧐']",0,Surprise,ADJ
+"['vic', 'just', 'called', 'me', 'aggressive', '😤']",-1,Anger,ADJ
+"['invest', 'in', 'your', 'dreams', '❗', '️it', 'took', 'me', 'a', 'while', 'to', 'grasp', 'that', 'concept']",0,Surprise,PUNCT
+"['flight', 'log', ':', 'trilogy', 'era', 'and', '7for7', 'era', '.', 'i', 'cant', 'choose', '.', '😅']",1,Joy,ADJ
+"[""i'm"", 'so', 'excited', ',', 'you', 'can', 'listen', 'to', 'my', 'new', 'single', 'with', '&', 'exclusive', 'on', 'joox', 'right', 'now', '!', '🙈', 'let', 'me', 'know', 'wh', '…']",1,Joy,ADJ
+"['mythic', ':', 'huddersfield', '7/7', '😂']",1,Joy,VERB
+"['he', 'always', 'said', 'that', 'exo', 'always', 'lipsync', '🔫', '.']",-1,Anger,NOUN
+"['😘', 'the', 'mo', '…']",1,Love,ADJ
+"['thanks', 'for', 'keeping', 'everyone', 'updated', '.', 'it', '’', 's', 'greatly', 'appreciated', '😀']",1,Joy,ADJ
+"['only', 'shit', 'thing', 'about', 'this', 'weather', 'is', 'flying', 'insects', '😷']",-1,disgust,ADJ
+"['this', 'is', 'such', 'cute', 'and', 'delightful', 'picture', 'of', 'sharan', 'mam', 'and', 'from', 'the', 'last', 'night', 'shoot', '❤', '️', 'credit', '…']",1,Love,VERB
+"['thank', 'you', 'harryrubez', 'for', 'the', '3000', 'token', 'offline', 'tip', '💚']",1,Love,ADJ
+"['bol', 'just', 'yammed', 'on', 'brodie', '’', 's', 'face', '😵']",-1,Fear,NOUN
+"['yasssss', '!', 'i', '’', 'm', 'also', 'mad', 'that', 'you', 'just', 'got', 'it', '😂']",1,Joy,VERB
+"['these', 'are', 'for', 'you', '😘']",1,Love,VERB
+"['only', 'outrageous', 'on', 'twitter', ""'"", 'the', 'land', 'of', 'make', 'believe', ""'"", '😂']",1,Joy,VERB
+"['morninggg', '.', 'take', 'careee', '💜']",1,Love,ADJ
+"['forest', '🌳', 'end', '...']",1,Joy,NOUN
+"['peek', 'a', 'boo', 'from', 'yoongi', 'baby', '😝']",1,Joy,VERB
+"['you', 'can', 'still', 'do', 'it', ',', 'shift', 'ho', 'jao', 'pakistan', '👍']",1,Joy,ADJ
+"[""you're"", 'so', 'pretty', '!', '😍']",1,Love,ADJ
+"['showing', 'her', 'beautiful', 'pair', '😍']",1,Love,VERB
+"['army', '!', '!', 'face', 'yourself', 'is', 'finally', 'out', '!', '!', '!', 'seems', 'like', 'ages', 'ago', 'we', 'only', 'had', ""don't"", 'leave', 'me', 'teaser', 'on', 'loop', 'for', '1h', '😂', '…']",1,Joy,VERB
+"['just', 'posted', 'a', '4.00', 'mi', 'run', '-', '👌']",1,Joy,ADJ
+"['serena', 'escorting', 'mikey', 'from', 'her', 'office', 'by', 'the', 'back', 'of', 'his', 'neck', 'after', 'his', 'questions', 'abt', 'bernie', 'tho', 'hahahahaha', 'gay', 'panic', '™', '️', 'a', '…']",1,Joy,NOUN
+"['everyone', 'is', 'getting', 'married', 'and', 'i', '’', 'm', 'over', 'here', 'stressing', 'about', 'what', 'rims', 'i', 'want', 'for', 'my', 'truck', '😅']",0,Surprise,ADJ
+"['better', 'not', 'be', '😒']",-1,Disgust,ADJ
+"['no', 'doubt', '...', '😕']",-1,Confusion,ADJ
+"['i', 'love', 'my', 'queen', '💓']",1,Love,NOUN
+"['47', '.', 'she', 'called', 'this', 'a', 'milly', 'pebble', '💀']",-1,Fear,NOUN
+"['ive', 'looked', 'at', '100s', 'of', 'photos', 'of', 'nails', 'for', 'my', 'wedding', 'and', 'still', 'can', '’', 't', 'decide', 'how', 'to', 'do', 'them', '🙄']",-1,Disgust,ADJ
+"['it', 'feel', 'like', 'toes', 'out', 'hoes', 'out', 'right', 'now', '😀']",1,Joy,VERB
+"['only', 'thing', 'making', 'coming', 'home', 'easier', 'is', 'my', 'own', 'bed', ',', 'gcl', 'race', 'night', 'with', 'the', 'best', 'folk', 'and', 'easter', 'sunday', 'paps', '😎']",1,Joy,ADJ
+"['that', '’', 's', 'one', 'sunday', 'i', '’', 'd', 'enjoy', ',', 'looking', 'at', 'your', 'beautifulness', '❤', '️']",1,Love,VERB
+"['the', 'first', 'path', 'of', 'the', 'stars', 'crowd', 'unlock', 'is', 'live', '-', 'a', 'piece', 'of', 'a', 'larger', 'mystery', '!', '🔍', 'play', 'the', 'puzzle', 'at', '…']",0,Surprise,NOUN
+"['graduating', 'today', '🎓']",1,Joy,NOUN
+"['duh', 'otut', '💕']",1,Love,NOUN
+"['help', 'me', 'welcome', 'my', 'boy', '‼', '️']",0,Surprise,PUNCT
+"['aw', ',', 'thanks', 'so', 'much', 'for', 'the', 'support', '🌹']",1,Love,NOUN
+"['can', 'someone', 'invent', 'a', 'teleportation', 'device', 'already', 'i', '’', 'm', 'tryna', 'teleport', 'myself', 'to', 'cpt', 'rn', '💔']",-1,Sadness,NOUN
+"['y', '’', 'all', 'think', 'i', 'smoke', 'dese', 'blunts', 'to', 'get', 'high', '?', 'nah', 'it', '’', 's', 'pain', 'behind', 'these', 'ls', '😤']",-1,Anger,ADJ
+"['rt', 'if', 'you', 'want', 'louis', 'to', 'drop', '""', 'always', 'you', '""', '😎']",1,Joy,ADJ
+"['☺', 'we', 'will', 'be', 'blamed', 'as', 'usual', '.']",0,Surprise,ADJ
+"['33', '?', '?', '?', 'omg', '😍', 'black', 'do', 'not', 'crack', 'y', '’', 'all']",1,Love,ADJ
+"['isn', '’', 't', 'it', 'the', 'right', 'time', 'to', 'follow', 'some', 'fans', '?', '👀']",0,Surprise,VERB
+"['dead', 'ass', 'didn', '’', 't', 'even', 'think', 'about', 'this', '😭']",-1,Sadness,VERB
+"['my', 'estimate', ';', '200', 'million', '!', 'wanna', 'bet', '?', '😃']",1,Joy,ADJ
+"['i', '’', 'm', 'so', 'proud', 'of', 'myself', '.', 'officially', 'a', 'shift', 'supervisor', '🤑']",1,Joy,ADJ
+"['when', 'you', ""can't"", 'sleep', 'because', 'of', 'a', 'crazy', 'idea', '...', '🤪', 'it', 'may', 'seem', 'very', 'hard', 'to', 'do', ',', 'but', 'not', 'doing', 'anything', 'makes', 'it', 'mor', '…']",1,Joy,VERB
+"['🙃', 'ladies', 'and', 'gentleman', 'we', 'have', 'lift', 'off', '(', '60', 'photos', ')']",1,Joy,ADJ
+"['glad', 'your', 'woke', '🙂']",1,Joy,ADJ
+"['im', 'here', 'wanting', 'to', 'buy', 'albums', 'but', 'why', 'arent', 'ppl', 'replying', 'me', 'on', 'carousell', '!', '!', '!', 'worse', 'thing', 'is', 'that', 'they', '’', 're', 'online', 'for', 'hours', '🙄']",-1,Disgust,ADJ
+"['shabbat', 'shalom', 'i', 'hope', 'everyone', 'has', 'blessed', '🙏', 'and', 'wonderful', 'weekend', '.', 'much', 'love', 'to', 'all', '.']",1,Love,VERB
+"['blurred', 'lines', '🍺']",1,Joy,NOUN
+"['microsoft', 'adds', 'support', 'for', 'equations', 'in', 'word', 'app', 'for', 'android', 'devices', '-', '🚀', 'grow', 'y', '…']",1,Joy,PROPN
+"['i', 'just', 'want', 'to', 'say', 'congratulations', 'for', 'both', 'men', 'and', ""women's"", 'volleyball', 'team', 'of', 'c', 'raymundo', 'for', 'winning', '😭', 'and', 'also', 'having', '…']",-1,Sadness,VERB
+"['it', 'feels', 'great', 'to', 'be', 'loved', 'f', '/', 'bein', 'myself', '!', 'the', 'best', 'feeling', 'in', 'the', 'whole', 'wide', '🌎', '.', ""i'm"", 'glad', 'i', 'distanced', 'myself', 'from', 'ne', '…']",1,Love,NOUN
+"['fuckin', 'love', 'my', 'girl', 'ughhjajwjakc', '🙊']",1,Joy,NOUN
+"['awww', '💕', 'i', '’', 'm', 'a', 'grandma', 'so', 'i', 'showered', '&', 'meal', 'prepped', '&', 'i', '’', 've', 'been', 'in', 'bed', 'for', 'the', 'past', 'like', 'hour', 'thinking', 'abo', '…']",1,Love,NOUN
+"['i', 'wanna', 'do', 'that', 'one', 'day', 'and', 'get', 'all', 'the', 'games', 'i', 'played', 'when', 'i', 'was', 'younger', '.', 'now', ""i've"", 'just', 'resorted', 'to', 'emulators', '😜']",1,Joy,VERB
+"['lmao', 'naw', 'them', 'bonuses', 'be', 'clutch', 'tho', '😂', 'i', 'love', 'my', 'job']",1,Joy,VERB
+"['$', '🤣', 'retweet', 'if', 'you', 'follow', 'back', 'and', 'follow', 'everyone', 'who', 'like', 'or', 'retweets', 'this', 'be', 'the', 'part', 'of', 'family', 'by', '…']",1,Joy,VERB
+"['never', 'underestimate', 'the', 'power', 'of', 'a', 'good', 'playlist', '🎧']",1,Joy,NOUN
+"['someone', 'send', 'me', 'sum', 'pizza', '(', 'to', 'be', 'specific', 'yellow', 'cab', '😪', ')']",-1,Sadness,ADJ
+"['who', 'got', 'xfinity', 'account', 'i', 'can', 'use', '🤣']",1,Joy,VERB
+"['ahhhh', 'beyond', 'thankful', 'for', 'everything', '.', 'thank', 'you', ',', 'g', '✨']",1,Joy,NOUN
+"['""', 'here', 'i', 'am', 'the', 'one', 'that', 'you', 'love', ',', 'asking', 'for', 'another', 'day', '.', 'understand', ',', 'the', 'one', 'that', 'you', 'love', ',', 'loves', 'you', 'in', 'so', 'many', 'ways', '.', '""', '💕', '…']",1,Love,NOUN
+"['it', '’', 's', 'almost', 'the', 'weekend', '😁']",1,Joy,ADJ
+"['so', 'glad', 'you', 'love', 'our', 'show', '!', 'keep', 'the', 'love', 'coming', '❤', '️']",1,Love,VERB
+"['this', 'is', 'the', 'life', 'on', 'mars', '⬆']",0,Surprise,ADP
+"['wanted', 'to', 'flex', 'w', 'you', 'now', 'i', 'have', 'to', 'flex', 'on', 'you', '🤪']",1,Joy,VERB
+"['nikki', 'and', 'brie', 'vs', 'sasha', 'and', 'bayley', 'vs', 'alexa', 'and', 'nia', '!', 'i', 'think', 'yes', '🤣']",1,Joy,VERB
+"['📢', 'seulgi', '&', 'wendy', 'to', 'make', 'guest', 'appearance', 'on', 'olive', 'tv', 'show', ""'"", 'talk', 'moon', ""'"", '.', 'they', 'planned', 'recording', 'on', 'feb', '12', '.']",0,Surprise,NOUN
+"['i', 'love', 'yoooou', '💜']",1,Love,ADJ
+"['|', 'harry', 'performing', 'only', 'angel', 'tonight', '!', 'march', '27', ',', '2018', '•', '©', '️']",0,Surprise,PUNCT
+"['▶', '️8', 'facts', 'currently', 'define', 'sector', ':']",0,Surprise,PUNCT
+"['can', 'i', 'take', 'your', 'temperature', '?', 'coz', 'you', 'looking', 'hot', 'today', '😂']",1,Joy,VERB
+"['i', 'love', 'so', 'so', 'much', 'millie', ',', 'happy', 'birthday', '❤', 'my', 'little', 'princess', '…']",1,Love,NOUN
+"['i', 'am', 'the', 'designer', 'of', 'my', 'own', 'catastrophe', '..', '©', 'fanny', 'latour', 'lambert', '.']",0,Surprise,PUNCT
+"['a', 'perfect', 'crisp', 'ginger', 'ale', '😛']",1,Joy,ADJ
+"['“', 'i', '’', 've', 'never', 'worked', 'so', 'hard', 'in', 'my', 'life', ',', 'honestly', '.', '”', 'shootaround', '📝', '»']",0,Surprise,NOUN
+"['nowadays', 'you', 'can', '’', 't', 'even', 'get', 'a', 'good', 'conversation', '😂']",1,Joy,VERB
+"['office', '😎']",1,Joy,NOUN
+"['kenta', 'is', 'in', 'japan', 'enjoying', 'new', ""year's"", '❣', '️']",1,Love,NOUN
+"['opinions', 'on', '🅱️ts', '—', ""they're"", 'a', 'bunch', 'of', 'babies', 'and', 'they', 'have', 'some', 'real', 'good', 'ass', 'bops', 'tbh', 'but', 'i', ""don't"", 'stan']",0,Surprise,NOUN
+"['even', 'though', 'i', 'don', '’', 't', 'know', 'you', 'well', '...', 'i', '’', 'm', 'here', 'if', 'you', 'ever', 'want', 'to', 'talk', 'about', 'anything', '❤', '️']",1,Love,VERB
+"['omg', '!', 'my', 'baby', 'will', 'be', 'so', 'cute', '!', '😍', 'search', '""', 'baby', 'crush', '""', 'in', 'the', 'app', 'store', 'to', 'see', 'yours', '!']",1,Love,ADJ
+"['thanks', 'sweetheart', '😊']",1,Joy,NOUN
+"['plamen', '!', '😱', 'they', 'all', 'went', 'to', 'the', 'dark', 'side', '!', 'stay', 'strong', 'wi', '…']",-1,Fear,ADJ
+"['cute', '😆']",1,Joy,ADJ
+"['wrestling', 'is', 'the', 'best', '💕', 'i', '’', 'm', 'literally', 'the', 'happiest', 'i', 'have', 'ever', 'been', '!', 'i', 'have', 'a', 'loving', 'family', ',', 'the', 'best', 'friends', 'and', 'an', 'amazi', '…']",1,Love,NOUN
+"['and', 'then', 'the', 'lesson', 'was', 'to', 'stop', 'expecting', '.', 'and', 'forgiving', 'others', 'for', 'being', 'who', 'they', 'are', '.', '🌸']",1,Love,NOUN
+"['all', 'i', 'can', 'say', 'right', 'now', 'is', 'kagiso', 'rabada', '...', 'wow', '😅', '🇿🇦']",1,Joy,ADJ
+"['like', 'ohhhhh', 'yeaaaaahhh', '😂']",1,Joy,VERB
+"['my', 'week', 'on', 'twitter', '🎉', ':', '73', 'mentions', ',', '4.09', 'k', 'mention', 'reach', ',', '62', 'likes', ',', '2', 'retweets', ',', '1k', 'retweet', 'reach', '.', 'see', 'yours', 'with', '…']",1,Joy,NOUN
+"['meganium', '♂', 'vine', 'whip', '/', 'earthquake', '(', 'iv', ':', '84', '%', '-', 'cp', ':', '1423', '-', 'l', ':', '23', ')', 'until', '11:15', ':', '46pm', 'unkn', '/', '?', 'lat', '=', '29.6585216217', '&', 'lon', '=', '-82.338703', '…']",0,Surprise,PROPN
+"['triggered', '!', '😂']",1,Anger,VERB
+"['yes', 'i', 'do', 'except', 'you', 'just', 'called', 'me', 'niall', 'soooo', '😁', 'you', '’', 're', 'forgiven']",1,Joy,VERB
+"['📸', '|', 'joe', 'jonas', '&', 'sophie', 'turner', 'out', 'for', 'dinner', 'in', 'london']",0,Surprise,NOUN
+"['lost', 'my', 'heart', 'on', 'you', '❤']",1,Love,NOUN
+"['may', 'my', 'enemies', 'live', 'long', 'so', 'they', 'can', 'see', 'me', 'progress', '🔱']",1,Joy,NOUN
+"['icymi', ':', 'today', 'on', 'bts', '🎙', 'i', 'broke', 'down', 'the', 'big', 'trade', 'and', 'why', 'i', 'think', 'kolby', 'altman', 'put', 'the', 'cavs', 'back', 'in', 'contention', '.', '-', 'wh', '…']",0,Surprise,NOUN
+"['i', 'wanna', 'travel', 'out', 'of', 'the', 'country', 'with', 'the', 'family', 'friends', 'squad', '☹']",-1,Sadness,ADJ
+"['really', '?', 'oml', '😂', 'i', 'guess', ""it'll"", 'be', 'a', 'long', 'process', 'to', 'get', 'him', 'into', 'it', '.']",1,Joy,VERB
+"['i', 'wanna', 'get', 'all', 'cute', 'and', 'go', 'on', 'a', 'cute', 'date', '😩']",-1,Sadness,VERB
+"['i', ""can't"", 'deal', 'with', 'dumb', '😕']",-1,Disgust,ADJ
+"['had', 'a', 'casual', 'conversation', 'about', 'drugs', 'with', 'some', 'friends', 'this', 'weekend', 'and', 'i', 'get', 'called', 'in', 'to', 'urinalysis', 'today', '...', '🤔']",-1,Disgust,ADJ
+"['backstage', 'at', 'g-a-y', 'with', '&', 'the', 'amazing', '💖']",1,Love,ADJ
+"['cnn', 'denies', 'school', 'shooting', 'survivor', '’', 's', 'claim', 'it', 'scripted', 'town', 'hall', 'question', 'via', 'i', '👁', '…']",0,Surprise,NOUN
+"[""it's"", 'a', 'shame', 'to', 'be', 'called', 'brave', 'and', 'beautiful', 'but', 'sleeps', 'sad', 'every', 'night', '.', '☹', '️']",-1,sadness,ADJ
+"['after', 'workout', 'naka', '2rice', 'then', '1', 'pack', 'ng', 'cookies', '😩']",-1,Sadness,VERB
+"['📷', 'iamgagaforgaga', ':', 'the', 'artrave', 'in', 'melbourne', '2014']",1,Joy,NOUN
+"['this', 'weekend', ':', 'friday', '30th', 'march', '-', 'paul', 'messenger', 'live', '@', '9pm', '🎸', 'saturday', '31st', 'march', '-', 'its', 'the', 'return', 'of', 'tony', 'johnso', '…']",1,Joy,NOUN
+"[""don't"", 'play', 'yourself', '💯']",1,Joy,ADJ
+"['happy', 'birthday', 'khaliiiiiddddddddd', '!', '!', '!', 'stay', 'slay', 'as', 'always', 'and', 'be', 'happy', '!', '!', '!', 'have', 'a', 'great', 'day', 'boo', '!', '❤', '️', '…']",1,Love,VERB
+"['craaaaaack', '!', '!', '!', '😍']",1,Joy,ADJ
+"['🤔', 'don', '’', 't', 'worry', 'you', 'will', 'soon', 'melt']",-1,Disgust,ADJ
+"['every', 'cunt', 'if', 'i', 'drink', 'enough', '.', '😉']",1,Joy,ADJ
+"['happy', 'labour', 'day', 'malaysia', '!', '😎', 'get', '10', '%', 'off', 'on', 'all', 'purchases', 'from', '1.may', 'to', '6.may', '.', '2017', '*', 'a', 'special', '…']",1,Joy,ADJ
+"['mood', 'bc', 'no', 'school', 'tomorrow', '🤪']",1,Joy,NOUN
+"['ricegum', 'is', 'still', 'there', '...', 'who', 'did', 'win', 'the', 'clickbait', 'challenge', 'in', 'the', 'end', '?', '🤔']",-1,Disgust,ADJ
+"['___', '|', '...', '|', '|', '.', '🐕', '.', '|', '|', '___', '|', 'why', 'does', 'russell', 'have', 'to', 'be', 'directly', 'in', 'the', 'center', 'of', 'my', 'bed', '?']",0,Surprise,NOUN
+"['*', 'waiting', '*', '🙂']",0,Surprise,ADJ
+"['seriously', ',', 'this', 'might', 'be', 'one', 'of', 'my', 'favorite', 'looks', 'of', 'hers', '!', '!', '😍']",1,Love,ADJ
+"['no', 'getting', 'up', '10', 'seconds', 'after', 'being', 'hit', 'over', 'the', 'head', 'with', 'a', 'horse', 'shoe', 'nowadays', '😅']",1,Joy,ADJ
+"['jiyongie', 'still', 'sleeping', 'at', 'his', 'house', 'yoongㅡ', '😧']",-1,Sadness,ADJ
+"['ending', 'this', 'thread', 'with', ""lakas's"", '""', 'why', 'the', 'fck', 'am', 'i', 'still', 'here', '""', 'look', '😂']",1,Joy,VERB
+"['🗣', 'if', 'i', 'had', 'one', 'wish', 'we', 'would', 'be', 'best', 'friends', ',', 'love', 'would', 'never', 'end', 'it', 'would', 'just', 'begin', '.', 'if', 'i', 'had', 'one', 'wish', 'you', 'would', 'be', '…']",1,Love,NOUN
+"['vote', 'for', 'your', 'top', '10', '!', 'link', 'to', 'the', 'poll', ':', '✨']",1,Joy,NOUN
+"['i', 'use', 'to', 'have', '300', '+', 'photos', 'in', 'my', 'camera', 'roll', ',', 'now', 'i', 'only', 'got', '73', '.', 'that', '’', 's', 'how', 'ugly', 'i', 'got', '😓']",-1,Sadness,ADJ
+"['its', 'the', 'only', 'expression', 'i', 'could', 'find', 'to', 'match', 'mine', ',', 'because', 'of', 'concern', ',', 'yet', 'relief', '.', '😆']",1,Joy,ADJ
+"['🤣', 'i', 'couldn', '’', 't', 'resist']",1,Joy,ADJ
+"['no', 'judgement', 'here', '..', 'i', 'love', 'it', '!', '!', '😂']",1,Joy,VERB
+"['check', 'your', 'dm', 'partner', '!', 'short', 'lang', 'but', 'i', 'hope', 'you', 'appreciate', '💙']",1,Love,ADJ
+"['grave', '😎']",1,Joy,ADJ
+"['[', 'update', 'chara', ']', ':', '»', '—', '170903', '!', '⤷', '©', 'loch', '999', '˗', 'ˏˋ', '+', 'ˎˊ', '˗']",0,Surprise,PUNCT
+"['in', 'two', 'weeks', 'mera', ':', 'queen', 'of', 'atlantis', 'issue', '1', 'will', 'be', 'available', '.', 'make', 'sure', 'to', 'buy', 'in', 'the', 'nearest', 'comic', 'shop', '.', '🌊']",0,Surprise,NOUN
+"['was', 'this', 'the', '""', '👇', '?']",0,Surprise,ADP
+"['🎬', 'one', 'way', 'trip']",0,Surprise,NOUN
+"['relatable', '😀']",1,Joy,ADJ
+"['tobi', 'is', 'one', 'lucky', 'guy', 'chai', '😂']",1,Joy,VERB
+"['cant', 'wait', '❗', '️', '→', '+', '(']",0,Surprise,PUNCT
+"['producer', 'returned', '1.6', 'cr', 'for', 'east', 'distributor', '.', 'total', '20', 'cr', 'returned', 'to', 'distributors', '.', '👍']",1,Joy,ADJ
+"['omg', 'i', 'remember', 'this', 'from', 'our', 'jdance', 'practice', '😭', 'good', 'old', 'times']",-1,Sadness,VERB
+"['📽', '️electricity', 'in', 'the', 'nipples', 'with', 'needles', 'and', 'bondage', '…']",0,Surprise,NOUN
+"['only', 'yours', '💙']",1,Love,ADJ
+"['congratulations', 'on', 'your', 'news', '.', 'if', 'you', 'would', 'like', 'some', 'practice', ',', 'you', 'are', 'very', 'welcome', 'to', 'have', 'ava', 'for', 'a', 'couple', 'of', 'weeks', '😀', '.']",1,Joy,ADJ
+"['i', 'wouldnt', 'fwm', 'tha', 'wrong', 'way', '😈']",-1,Disgust,ADJ
+"['one', 'down', ',', 'one', 'more', 'to', 'go', '🤘']",1,Joy,ADJ
+"['😍', 'yaaaas', 'lipstick', 'prince']",1,Love,ADJ
+"['congrats', '!', '!', '!', '🏆']",1,Joy,NOUN
+"['went', 'thru', 'a', 'lot', 'last', 'year', '...', 'but', 'i', 'made', 'it', '😅']",1,Joy,VERB
+"['i', 'liked', 'a', 'video', '🔴', 'gta', '5', 'mod', 'menu', 'free', 'money', 'drop', '&', 'rp', 'lobby']",0,Surprise,ADJ
+"['my', 'eye', 'soo', 'red', '😩']",-1,Sadness,VERB
+"['fully', 'loaded', 'spicy', 'chicken', 'burger', '!', '🍗']",1,Joy,NOUN
+"['toph', 'got', 'me', 'hooked', 'on', 'westworld', '😑']",-1,Disgust,ADJ
+"['fuck', 'me', 'hard', '🤤']",1,Joy,ADJ
+"['better', 'than', ""utd's"", '1999', 'season', 'they', 'said', '😂', 'city', '’', 's', 'last', 'three', 'games', ':', 'liverpool', '3-0', 'city', 'city', '2-3', 'united', 'city', '1-2', 'liverpool']",1,Joy,VERB
+"[""i'll"", 'eat', 'bannana', '&', 'want', 'them', 'to', 'stare', 'at', 'my', 'boobs', 'too', '😊']",1,Joy,VERB
+"['straight', 'stuntin', '’', ',', 'can', '’', 't', 'tell', 'me', 'nothin', '’', '🥀']",-1,Sadness,NOUN
+"['i', 'don', '’', 't', 'want', 'to', 'wear', 'wigs', 'or', 'weave', '.', 'i', 'just', 'want', 'to', 'embrace', 'my', 'natural', 'hair', 'journey', 'if', 'im', 'honest', '...', '❤', '️', '…']",1,Love,VERB
+"['i', 'sit', 'here', 'and', 'cut', 'things', 'for', 'my', 'sisters', 'lesson', 'plans', '&', 'she', 'watches', 'dramas', '🙄']",-1,Disgust,ADJ
+"['[', 'hq', ']', '180421', 'icn', 'airport', 'otw', 'to', 'taiwan', 'for', ""'"", 'best', 'of', 'best', 'in', 'taipei', ""'"", '©', 'boxgame', '3']",0,Surprise,PUNCT
+"['🤔', 'if', 'all', 'that', 'he', 'accused', 'people', 'of', 'were', 'proven', 'true', ',', 'why', 'would', 'he', 'lose', 'the', 'defamation', 'case', 'and', 'go', 'to', 'jail', '?', '?', 'aaptard', 'logic', 'na', '…']",-1,Disgust,ADJ
+"['you', 'were', 'slandering', 'her', 'the', 'other', 'day', '💀']",-1,Fear,VERB
+"['stanley', 'gdm', '..', 'anyone', '?', ""let's"", 'make', 'a', 'new', 'one', '.', '😅']",1,Joy,VERB
+"['they', 'keep', 'belling', 'my', 'line', 'even', 'when', 'i', 'air', 'them', '😊']",1,Joy,VERB
+"['she', 'said', 'my', 'man', '’', 's', '!', '!', '!', '😩']",-1,Sadness,VERB
+"['i', 'love', 'you', 'karterliam', '💘']",1,Love,NOUN
+"['wave', 'watch', 'iii', '®', 'products']",0,Surprise,NOUN
+"[""let's"", 'get', 'this', 'ball', 'rollin', ""'"", '!', '!', 'a', 'brand', 'new', 'starts', 'right', 'now', 'on', 'east', 'coast', '!', '!', '🌟']",1,Joy,NOUN
+"['every', 'time', 'i', 'see', 'my', 'cousin', 'it', 'makes', 'me', 'realize', 'how', 'we', 'got', 'the', 'ugly', 'in', 'the', 'family', '😪']",-1,Sadness,ADJ
+"['that', '’', 's', 'right', '😉', 'you', '’', 're', 'not', '.', 'now', 'wyo', 'tonight', 'lil', 'mama', '?']",1,Joy,ADJ
+"['stop', 'playin', 'wit', 'people', '😂']",1,Joy,VERB
+"['also', ',', 'we', 'caught', 'up', 'with', 'our', '""', 'fab', '""', '🖐', 'who', 'have', 'been', 'named', 'player', 'of', 'the', 'week', 'this', 'season', '!', 'htt', '…']",1,Joy,NOUN
+"['keep', 'hating', '...', ""you're"", 'doing', 'nothing', 'but', 'bringing', 'us', 'closer', 'together', '♥', '️']",1,Love,NOUN
+"['pretty', 'random', 'but', 'i', 'wanna', 'say', 'i', 'love', ""y'all"", 'so', 'much', '💛']",1,Love,ADJ
+"['[', 'info', ']', '🇯🇵', 'billboard', 'japan', '-', 'hot', 'albums', ':', '-', 'face', 'yourself', '[', 'new', ']', '©', 'btschartdata']",1,Joy,PROPN
+"['☘', 'celebrating', 'xxvi', 'in', 'behind', 'the', 'scenes', '🇮🇪']",1,Joy,NOUN
+"['yet', 'another', 'perfect', 'game', 'ruined', 'by', 'logan', 'forsythe', '.', '😉']",0,Surprise,ADJ
+"['i', '’', 've', 'been', 'studying', 'all', 'day', 'for', 'my', 'final', 'tomorrow', 'please', 'wish', 'me', 'luck', 'i', 'need', 'it', 'lol', '💙']",1,Love,ADJ
+"['happy', 'monday', '💚', 'rumi', 'quote', 'to', 'fan', 'your', 'flames', '!', '!']",1,Love,ADJ
+"['rudy', 'continues', 'his', 'monster', 'streak', 'and', 'gets', 'us', 'on', 'the', 'board', ',', 'plus', 'the', 'foul', '.', '(', 'he', 'made', 'the', 'gimme', '😛', ')']",1,Joy,VERB
+"['i', 'love', '❤', '️', 'this']",1,Love,VERB
+"['i', 'love', 'everything', 'about', 'this', 'tweet', '😂']",1,Joy,VERB
+"['he', 'should', '’', 've', 'been', 'on', 'i', '.', 't', 'last', 'yr', '😴']",-1,sadness,ADJ
+"['josh', 'hader', 'on', '""', ""i'm"", 'on', 'the', 'golf', 'course', 'right', 'now', '.', '""', 'my', 'dude', '👌']",1,Joy,ADJ
+"['follow', 'everyone', 'who', 'retweets', '&', 'likes', 'this', '💋']",1,Love,NOUN
+"['best', 'part', 'about', 'any', 'hi', 'scrap', 'video', 'is', 'the', 'commentary', '😂']",1,Joy,VERB
+"['our', 'first', 'book', 'is', 'announced', 'tomorrow', '!', '📚', 'see', 'what', 'had', 'to', 'say', ':']",1,Joy,NOUN
+"['i', 'be', 'sleep', 'allday', '😩']",-1,Sadness,VERB
+"['when', 'you', 'wake', 'up', 'from', 'a', 'nap', 'and', 'you', 'look', 'like', 'a', 'delete', 'picture', '😢']",-1,sadness,ADJ
+"['to', 'beard', 'or', 'not', 'to', 'beard', '?', '🤔']",-1,Disgust,ADJ
+"['manning', 'happy', 'hour', 'on', 'with', '-', 'tweet', 'us', 'your', 'irish', 'craft', 'drinks', 'choices', 'on', ""paddy's"", 'day', '🍻']",1,Joy,NOUN
+"['skating', 'is', 'not', 'my', 'thing', '🙃']",-1,Fear,ADJ
+"['i', 'was', 'dying', 'inside', 'to', 'hold', 'you', '🎶']",1,Joy,NOUN
+"['amir', 'patut', 'buat', 'new', 'trick', 'nk', 'tackle', 'rapidkl', '😁', '..']",1,Joy,ADJ
+"['as', 'a', 'pro', 'wrestling', 'fan', ""i'm"", 'so', 'glad', 'my', 'favorite', 'tag', 'team', 'will', 'finally', 'b', ""c'n"", 'in', 'all', 'their', 'glory', '😂']",1,Joy,VERB
+"['this', 'man', 'is', 'obsessed', 'with', 'gucci', '😑']",-1,Disgust,ADJ
+"['made', 'my', 'blood', 'boil', 'that', 'little', 'laugh', '🤬']",-1,Anger,ADJ
+"['a', 'vibe', 'you', 'wont', 'find', 'no', 'where', 'else', '✨']",1,Joy,NOUN
+"['❝', 'being', ""different's"", 'nothing', 'to', 'be', 'ashamed', 'of', ',', 'its', 'something', 'special', '.', '❞', '—', 'rainbow', '🌈']",1,Joy,NOUN
+"['your', 'website', 'is', 'down', '.', 'please', 'pick', 'it', 'up', '.', '😂']",1,Joy,VERB
+"[""it's"", 'a', 'wear', 'all', 'of', ""daddy's"", 'clothes', 'kind', 'of', 'day', 'today', '😍']",1,Love,ADJ
+"['lmfao', 'why', 'do', 'you', 'keep', 'playing', '😂']",1,Joy,VERB
+"['i', 'be', 'having', 'some', 'crazy', 'ass', 'dreams', '😂']",1,Joy,VERB
+"['wish', 'i', 'had', 'a', 'treadmill', '😭']",-1,Sadness,VERB
+"['who', 'wanna', 'txt', '😂']",1,Joy,VERB
+"[""i've"", 'been', 'in', 'super', 'fallback', 'mode', '..', 'getting', 'chunkier', '&', 'letting', 'my', 'eyebrows', 'get', 'bushy', '😩']",-1,Sadness,VERB
+"['but', 'before', 'i', 'do', 'engine', 'mods', 'i', 'need', 'a', 'hondata', 'which', 'is', 'expensive', '.', 'why', ""can't"", 'modding', 'cars', 'be', 'cheap', '🙄']",-1,Disgust,ADJ
+"['this', 'is', 'so', 'cute', '!', '!', 'cat', 'x', 'baejin', '♥', '︎']",1,Love,NOUN
+"['are', 'you', 'ready', 'to', 'collapse', 'youtube', 'and', 'beat', 'a', 'new', 'record', '?', '😏']",1,Joy,ADJ
+"['a', 'lil', 'boy', 'caught', 'his', 'momma', 'riding', 'his', 'daddy', '😩', 'he', 'said', '""', 'ma', 'what', 'you', 'doing', '?', '""', 'she', 'said', '""', 'son', 'your', 'daddy', 'stomach', 'to', 'big', ',', 'so', 'i', '…']",-1,Sadness,VERB
+"['goodnight', 'everyone', '💜']",1,Love,ADJ
+"['good', 'morning', 'to', 'all', 'my', 'frnds', '💟']",1,Love,NOUN
+"['this', ""wasn't"", 'even', 'near', 'to', 'funny', '😑', 'gave', 'me', 'a', 'mini', 'heart', 'attack']",-1,Disgust,ADJ
+"['my', 'week', 'on', 'twitter', '🎉', ':', '381', 'mentions', ',', '7.64', 'k', 'mention', 'reach', ',', '461', 'likes', ',', '6', 'retweets', ',', '12.2', 'k', 'retweet', 'reach', '.', 'see', 'yours', 'with', '…']",1,Joy,NOUN
+"['thanks', 'aida', '🌸']",1,Joy,NOUN
+"['inspirational', 'person', 'of', 'the', 'day', ':', 'anne', 'hegerty', 'is', 'well', 'known', 'as', 'the', 'governess', 'on', 'the', 'chase', 't', '.', 'v', '.', 'show', '.', '📺', 'anne', 'was', '…']",1,Joy,NOUN
+"['been', 'in', 'this', 'country', 'and', 'greensboro', 'for', '15', 'years', 'as', 'of', 'today', '😐']",0,Surprise,ADJ
+"['im', 'really', 'tryna', 'record', 'and', 'make', 'some', 'music', ',', 'if', 'anyone', 'has', 'a', 'studio', '/', 'knows', 'someone', 'that', 'has', 'one', 'pls', 'dm', 'me', 'so', 'i', 'can', 'get', 'shit', 'rollin', '🖤']",1,Love,NOUN
+"['my', 'best', 'friend', 'hypes', 'me', 'more', 'than', 'anyone', 'else', '’', 's', '😤']",-1,Anger,ADJ
+"['she', 'thicc', '👀']",0,Surprise,VERB
+"['i', '’', '’', 'm', 'a', 'barbie', 'girl', '.', '💕', '.']",1,Love,NOUN
+"['listen', 'to', 'our', 'very', 'own', 'josh', 'carter', 'talk', 'all', 'things', 'with', '❤', '️']",1,Love,VERB
+"[""i'm"", 'sure', 'you', 'guys', 'can', 'work', 'it', 'out', '😂']",1,Joy,VERB
+"['old', 'video', 'uncovered', ',', 'with', '🙈', 'with', 'special', 'alterista', 'videographer', 'participation']",0,Surprise,ADJ
+"['jersey', ""don't"", 'party', 'like', 'tampa', '😭']",-1,Sadness,VERB
+"['goodnight', 'baby', 'i', 'love', 'you', 'so', 'much', '♥', '️', 'exo', '엑소']",1,Love,NOUN
+"[""where's"", 'my', 'active', ',', 'real', 'followers', '?', '?', '🔥']",1,Joy,NOUN
+"['wish', 'the', 'whole', 'of', 'ot5', 'is', 'here', '!', 'still', 'to', 'see', 'gyuri', ',', 'hara', 'and', 'seungyeon', 'make', 'me', '😢', '.', 'and', 'think', 'its', '2013', 'again', '…']",-1,sadness,VERB
+"['in', 'case', 'you', 'missed', 'it', 'on', 'yesterday', ':', '📻']",0,Surprise,NOUN
+"['we', 'love', 'you', 'namjoonieee', '💓']",1,Love,NOUN
+"['i', 'love', 'my', 'boyfriend', '💚', 'just', 'a', 'thought', 'okay', 'bye', 'my', 'phone', 'finna', 'die']",1,Love,ADJ
+"['i', 'tried', 'pushing', 'though', 'the', 'first', 'one', 'but', 'i', 'couldn', '’', 't', '.', 'i', 'think', 'it', '’', 's', 'because', 'i', 'dislike', 'mare', 'from', 'the', 'beginning', '🙈', '!']",-1,disgust,ADJ
+"['rt', ',', 'dm', '🥓']",1,Joy,NOUN
+"['waking', 'up', 'after', 'the', 'best', 'sleep', 'ever', '&', 'for', 'a', 'first', 'not', 'feeling', 'depressed', 'has', 'got', 'to', 'be', 'one', 'of', 'the', 'best', 'feelings', '.', '🙃']",1,Joy,ADJ
+"['i', '’', 'm', 'finna', 'ducc', 'off', 'wit', 'somebody', '🤣']",1,Joy,VERB
+"['oh', 'wait', 'i', 'just', 're-read', 'it', 'properly', 'i', 'mean', 'cornflakes', 'can', 'be', 'bland', 'but', 'they', 'aren', '’', 't', '~', 'that', '~', 'bland', '😆']",1,Joy,ADJ
+"['can', '’', 't', 'stand', 'hypocrites', '💀']",-1,Fear,VERB
+"['this', 'watery', 'ass', 'shit', '😂']",1,Joy,VERB
+"['arab', 'parents', '’', 'ways', 'of', 'disciplining', 'their', 'kids', '☠', '️']",-1,Fear,NOUN
+"['right', '?', '?', '😦']",-1,Fear,ADJ
+"['🔥', 'double', 'dipping', '...']",1,Joy,NOUN
+"['srslyyy', '!', '😅']",1,Joy,ADJ
+"['jyp', 'would', 'he', 'a', 'fool', 'for', 'eliminating', 'such', 'a', 'king', 'look', 'at', 'him', 'slaying', '🎶', 'a', '$', 'ap', 'rocky', '-', 'multiply']",1,Joy,NOUN
+"['this', 'question', 'was', 'asked', 'in', 'a', '5', 'th', 'grade', 'exam', '😐']",0,Surprise,ADJ
+"['thank', 'you', 'twin', '💓']",1,Love,NOUN
+"['hey', 'who', 'has', 'a', 'code', 'for', 'me', 'to', 'get', 'a', 'cheaper', 'uber', 'or', 'lyft', 'ride', '?', '😭']",-1,Sadness,VERB
+"['heaven', 'is', 'all', 'around', '✨']",1,Joy,NOUN
+"['wearing', 'my', 'signature', 'cr7', 'steel', 'shirt', '👌', 'comfort', 'is', 'the', 'new', 'luxury', '.', 'find', 'yours', 'now', 'on', '…']",1,Joy,ADJ
+"['i', ""don't"", 'always', 'comment', 'on', 'a', ""friend's"", 'pic', 'but', 'when', 'i', 'do', 'i', 'make', 'sure', ""it's"", 'insulting', '.', '😂']",1,Anger,VERB
+"['ilove', 'yall', '!', '!', '!', '💎']",1,Joy,NOUN
+"['really', ',', 'that', '’', 's', 'what', 'started', 'this', 'madness', 'in', 'the', '1st', 'place', '🧐']",0,Surprise,ADJ
+"['happy', 'birthday', 'to', 'a', 'real', 'one', '❤', '️', 'if', 'they', 'don', '’', 't', 'hear', 'you', 'now', 'they', 'gone', 'hear', 'you', 'real', 'soon', '!']",1,Love,VERB
+"['3️⃣', '🦁', 'congratulations', 'to', 'on', 'his', 'call', 'up', 'to', 'the', 'squad', 'ahead', 'of', 'their', 'upcoming', 'international', 'friendli', '…']",1,Joy,NUM
+"['yes', ',', 'know', 'your', 'worth', '🙌']",1,Joy,VERB
+"['🖤', 'peaceful', '..']",1,Love,NOUN
+"['handsome', 'liam', '😍']",1,Love,ADJ
+"['it', '’', 's', 'so', 'boring', '😞']",-1,sadness,ADJ
+"['this', 'and', '""', 'everywhere', '""', 'by', 'is', 'my', 'friday', 'drive', 'home', 'ritual', '!', 'windows', 'down', '!', '😅']",1,Joy,VERB
+"['😀', 'ha', '!', '""', 'ans', 'are', 'just', 'condescending', 'dickheads', '""', 'we', 'are', 'a', 'bunch', 'of', 'elitist', 'pricks', ',', ""aren't"", 'we', ',', 'godfrey', '?']",-1,Disgust,ADJ
+"[""i'm"", 'glad', 'to', 'be', 'alive', '😏']",1,Joy,ADJ
+"['i', 'got', 'my', 'eyes', 'on', 'you', 'chloe', '👀']",0,Surprise,VERB
+"['171031', 'hot', 'pink', '©', 'smile', '-', 'wa', '-']",0,Surprise,NOUN
+"['a', 'decade', 'from', 'now', 'trumponomics', 'will', 'be', 'discussed', 'in', 'every', 'macroeconomics', 'class', '🙄']",-1,Disgust,ADJ
+"['wow', '..', 'i', 'fucking', 'love', 'you', '😭']",1,Love,VERB
+"['flowers', 'of', 'pasta', 'are', 'blossoming', 'at', 'otto', 'today', '🌼', 'spring', 'pea', 'fiore', 'with', 'mint', 'pesto', '&', 'ricotta', 'salata', '.']",1,Joy,NOUN
+"['the', 'futurist', 'in', 'me', 'must', 'see', 'pics', 'of', '43ft', 'waves', '🌊']",1,Joy,NOUN
+"['tonight', '’', 's', 'vibe', '💋']",1,Love,NOUN
+"['and', 'the', 'keeper', '😉']",1,Joy,ADJ
+"['thanks', 'for', 'the', 'retweets', '!', ""you're"", 'awesome', '(', '🚀', 'via', ')', 'h', '…']",1,Joy,NOUN
+"['follow', 'me', 'and', 'everyone', 'who', 'likes', '&', 'retweets', 'this', 'tweet', '.', '📱']",0,Surprise,NOUN
+"['i', 'like', 'your', 'trigger', 'taste', 'sir', '😉', 'nothing', 'like', 'squeezing', 'a', 'straight', 'trigger', '.']",1,Joy,ADJ
+"['“', 'kicking', 'it', 'with', 'my', 'partner', 'in', 'this', 'journey', 'called', 'life', '”', 'cutest', '.', 'description', '.', 'ever', '.', '😭']",-1,Sadness,VERB
+"['wish', 'i', 'was', 'getting', 'one', 'of', 'those', '🙄']",-1,Disgust,ADJ
+"['last', 'semester', 'of', 'hs', 'ever', 'begins', 'today', '...', 'where', 'has', 'the', 'time', 'gone', '?', '😰']",-1,Fear,ADJ
+"['that', '’', 's', 'how', 'we', 'sail', '!', '😉']",1,Joy,ADJ
+"['do', 'i', 'hear', 'james', 'sing', '""', 'cool', 'down', '.', 'i', 'need', 'to', 'cool', 'down', '""', 'bec', 'mumshie', 'is', 'just', 'too', '🔥', 'to', 'handle']",1,Joy,ADJ
+"['how', 'to', 'write', 'good', ':', 'top', '10', 'tips', '!', '👌', 'top', '6', ':', 'never', 'use', 'a', 'big', 'word', 'when', 'a', 'diminutive', 'alternative', 'would', 'suffice', '.', '…']",1,Joy,ADJ
+"['📷', 'crazy', '4rich', ':', 'chef', 'david', 'greco', 'with', 'james', 'spader', 'on', 'the', 'set', 'of', 'the', 'black', 'list', '.', '24', 'jan', '2018', '.', '“', 'scene', '...', '…']",0,Surprise,NOUN
+"['i', 'need', 'it', '❤']",1,Love,VERB
+"['🇺🇸', '💟', '🇺🇸', 'god', 'bless', 'this', 'hero', '!']",1,Love,PROPN
+"[""mom's"", 'scared', 'son', 'with', 'autism', 'eats', 'lunch', 'alone', 'everyday', '.', 'then', 'college', 'football', 'star', 'joins', 'him', '❗']",1,Joy,PUNCT
+"['everyone', 'is', 'getting', 'engaged', '😍', 'makes', 'me', 'so', 'happy', 'for', 'them']",1,Joy,ADJ
+"[""jose's"", 'got', 'us', 'playing', 'the', 'way', 'utd', 'should', '🎵']",1,Joy,NOUN
+"['can', '’', 't', 'wait', 'till', 'jack', 'is', 'old', 'enough', 'to', 'take', 'to', 'the', 'amusement', 'parks', 'and', 'water', 'parks', '😩']",-1,Sadness,VERB
+"['i', 'luv', 'u', '🦑']",1,Love,NOUN
+"['i', 'watch', 'the', 'heart', 'attack', 'mv', 'on', 'a', 'daily', 'basis', 'i', 'love', 'jiwoo', 'so', 'much', '😔']",-1,sadness,ADJ
+"['get', 'this', 'tweet', 'to', '5000', 'retweets', '🙏', 'if', 'you', 'have', 'time', 'please', 'retweet', 'all', 'my', 'tweets', '..', 'this', 'number', 'will', 'indicate', 'my', 'tweet', 'num', '…']",-1,Anger,VERB
+"['you', 'know', 'imma', 'be', 'the', 'one', 'who', 'keep', 'it', 'real', 'with', 'you', 'when', 'everyone', 'is', 'fake', 'as', 'fuck', '.', '💕']",1,Love,NOUN
+"['don', '’', 't', 'miss', 'your', 'last', 'chance', 'to', 'sign', 'up', '!', 'path', '2pro', '📖', ':', '…', 'apply', ':', '…']",0,Surprise,NOUN
+"['take', 'a', 'selfie', 'with', 'the', 'and', 'then', 'share', 'it', 'with', 'your', 'friends', '!', '🏆', '…']",1,Joy,NOUN
+"['i', 'just', 'realized', 'my', 'profile', 'banner', 'pic', 'is', 'that', 'of', 'an', 'easter', 'bunny', ':)', 'here', 'is', 'the', 'full', 'meme', '🌸']",1,Joy,NOUN
+"['his', 'walking', 'style', '&', 'bgm', '🔥']",1,Joy,NOUN
+"['you', 'are', 'good', 'enough', 'love', 'you', '❤', '️']",1,Love,VERB
+"['woohoo', '!', ""it's"", 'semifinal', 'times', 'for', 'the', 'ladies', 'at', 'the', 'best', 'news', 'is', ':', 'you', 'can', 'watch', 'it', 'live', 'here', '⬇', '️', '…']",1,Joy,ADP
+"['romeo', 'langford', 'got', 'you', 'always', '💥']",1,Joy,NOUN
+"['i', 'am', 'lost', 'in', 'your', 'beauty', 'so', 'damn', 'sexy', '😍']",1,Love,ADJ
+"['we', 'need', 'another', 'hula', 'hoop', 'gal', '2nite', '!', '🤣']",1,Joy,VERB
+"['this', 'looks', 'like', 'a', 'fast', 'and', 'furious', 'revamp', '😩']",-1,Sadness,ADJ
+"['“', 'i', 'don', '’', 't', 'wanna', 'die', 'for', 'them', 'to', 'miss', 'me', '”', '🗣']",0,Surprise,NOUN
+"['partying', '24/7', '😕', ',', 'i', 'can', '’', 't', 'relate']",-1,Sadness,ADJ
+"['📺', 'debut', ':', ""'"", 'mister', 'rogers', ""'"", 'neighborhood', ""'"", 'premiered', 'nationwide', '50', 'years', 'ago', 'today', ',', 'february', '19', ',', '1968']",1,Joy,NOUN
+"['making', 'america', 'white', 'again', ',', 'one', 'destroyed', 'family', 'at', 'a', 'time', 'from', 'the', 'pro-life', 'party', 'of', 'trump', ',', 'moore', ',', 'arpaio', 'and', 'ryan', '😔']",-1,sadness,ADJ
+"['switch', 'it', 'up', '💙']",1,Love,ADJ
+"['i', 'think', 'is', 'cute', '🖤']",1,Love,NOUN
+"['my', '4', 'yo', 'son', 'watches', 'your', 'snaps', 'with', 'me', '.', 'today', 'we', 'got', 'hand', 'hummer', 'feeders', 'and', 'he', 'said', '""', 'yay', ""i'm"", 'just', 'like', 'hummer', 'daddy', '!', '""', '😂']",1,Joy,VERB
+"['i', 'know', 'where', 'im', 'going', 'in', 'life', 'do', 'you', '🤔']",-1,Disgust,ADJ
+"['eva', 'lin', 'tribute', '1/4', '😜']",1,Joy,NOUN
+"['cinderella', 'dressed', 'in', 'yellow', '🌻']",1,Joy,NOUN
+"['👇', 'check', 'out', 'these', 'ladies', 'dancing', 'their', 'way', 'into', 'the', 'weekend', '.', 'our', 'project', 'supports', 'coventy', 'women', 'to', 'ge', '…']",0,Surprise,ADP
+"['▶', '️play']",0,Surprise,PUNCT
+"['woooh', 'my', 'best', 'setter', '!', 'congrats', '63', 'excellent', 'sets', '!', '💙']",1,Love,ADJ
+"['they', 'better', 'not', '.', 'i', 'ady', 'broke', 'from', 'their', 'bt21', 'stuff', '😂']",1,Joy,VERB
+"['–', '〔', '²', '⁰', '¹', '⁸', '¹', 'ˢᵗ', 'giveaway', '🌏', '♡', '〕', '–', '¹', '°', 'must', 'rt', 'this', 'tweet', '²', '°', 'reply', 'with', 'what', ""you'd"", 'like', 'to', 'get', '﹙', 'kino', ',', '2기', 'bracelet', ',', 'both', '﹚', 'deadline', 'ma', '…']",1,Love,NOUN
+"['hillary', 'clinton', ""can't"", 'handle', '8', 'steps', 'in', 'india', '.', 'what', 'makes', 'you', 'think', ""she's"", 'going', 'to', 'well', 'with', '12', '?', '😭']",-1,Sadness,VERB
+"['me', '&', 'kpop', ':', 'started', 'stanning', '2012', 'but', 'stopped', '(', 'ult', 'was', 'boyfriend', 'and', 'suju', ')', '😁', 'i', 'started', 'stanning', 'again', 'on', 'september', '2', '…']",1,Joy,VERB
+"['u', 'all', 'might', 'hate', 'me', 'but', 'im', 'jung', 'yonghwa', 'armpit', 'hair', 'enthusiast', '&', 'i', 'see', 'it', 'sticking', 'out', 'ㅋㅋㅋ', 'i', 'just', 'love', 'evrypart', 'of', 'him', '🙈']",1,Love,ADJ
+"['sksjske', '😭', 'like', '""', 'bitch', ""i'm"", 'beychellan', '""']",-1,Sadness,VERB
+"['well', 'bitch', 'if', 'you', ""ain't"", 'shittin', 'then', 'get', 'off', 'the', 'pot', '.', 'got', 'some', 'niggas', 'out', 'in', 'brooklyn', ""that'll"", 'off', 'ya', 'top', '🗣', '…']",0,Surprise,NOUN
+"['shoot', 'ya', 'shot', ',', 'nobody', 'on', 'court', 'rn', '&', 'if', 'ya', 'miss', 'come', 'back', 'for', 'ya', 'lay', 'up', '😏']",1,Joy,ADJ
+"['some', 'nights', 'i', 'think', 'i', '’', 'm', 'cut', 'out', 'to', 'be', 'a', 'nurse', '.', 'some', 'nights', 'i', 'think', 'about', 'how', 'horrible', 'i', 'am', '😭']",-1,Sadness,VERB
+"['—', ';', ""jungkook's"", 'habit', 'of', 'tucking', ""tae's"", 'hair', 'behind', 'his', 'ear', '.', '💕', 'pt', '.', '2', '[', '2015-2017', ']']",1,Love,NOUN
+"['i', 'just', 'put', 'my', 'make', 'up', 'off', 'and', 'i', 'literally', 'have', 'glitter', 'all', 'over', 'my', 'face', '😑']",-1,Disgust,ADJ
+"['only', 'things', 'we', 'ask', 'for', 'at', 'intervals', '😂']",1,Joy,VERB
+"['my', 'week', 'on', 'twitter', '🎉', ':', '5', 'mentions', ',', '1.36', 'k', 'mention', 'reach', ',', '4', 'likes', ',', '1', 'retweet', ',', '8.03', 'k', 'retweet', 'reach', '.', 'see', 'yours', 'with', '…']",1,Joy,NOUN
+"['if', 'i', 'let', 'you', 'in', 'that', 'mean', 'i', 'really', 'fwu', 'cuz', 'everybody', 'don', '’', 't', 'get', 'that', 'far', '💯']",1,Joy,NOUN
+"['it', '’', 's', 'been', 'forever', 'lol', '😂', 'i', 'miss', 'u']",1,Joy,VERB
+"[""today's"", 'hashtag', ':', 'tweet', 'the', 'hashtag', 'alongside', 'the', 'voting', 'hashtags', '🔥', 'what', 'is', 'your', 'favourite', 'hobi', 'part', 'in', 'a', 'bts', '…']",1,Joy,NOUN
+"['😱', 'racist', 'president', '?', '“', 'today', 'we', 'celebrate', 'dr', '.', 'king', 'for', 'standing', 'up', 'for', 'the', 'self-evident', 'truth', 'americans', 'hold', 'so', 'dear', ',', 'that', 'no', '…']",-1,Fear,ADJ
+"['thank', 'you', 'i', 'needed', 'that', '☺', '️']",1,Joy,ADJ
+"['you', 'reminded', 'me', 'of', 'the', 'mess', ',', 'i', 'told', 'you', 'what', 'is', 'avbl', 'there', '😜']",1,Joy,VERB
+"['yes', '!', '!', '!', 'agreed', '💯']",1,Joy,NOUN
+"['yeah', 'fuck', 'that', 'then', '😂']",1,Joy,VERB
+"['i', 'can', '’', 't', 'afford', 'this', 'school', '😩', '...']",-1,Sadness,VERB
+"['what', 'a', 'beautiful', 'morning', '☀', '️']",1,Joy,NOUN
+"['i', 'was', 'shaking', 'that', 'ass', '.', 'bending', 'over', 'popping', 'pussy', '.', 'i', 'was', 'getting', 'that', 'cassshh', '!', '🤑']",1,Joy,ADJ
+"['if', 'you', 'love', 'hardstyle', 'we', 'automatically', 'are', 'friends', '😌']",1,Joy,ADJ
+"['this', 'doesn', '’', 't', 'sound', 'like', 'a', 'campfire', 'in', 'a', 'cornfield', '🤔']",-1,Disgust,ADJ
+"['ayyy', 'this', 'is', 'lit', '🔥']",1,Joy,ADJ
+"['l', '❤', '️', 'but', 'the', 'way', 'she', 'grilled', 'about', 'ann', 'was', 'unacceptable', '.', 'focus', 'on', 'the', 'm', '…']",1,Love,VERB
+"['listen', 'to', 'ur', 'elders', '👌']",1,Joy,ADJ
+"['1', '-', 'the', '1st', 'time', 'i', 'screamed', 'was', 'at', '2016', '😄', '2', '-', 'the', '2nd', 'time', 'i', 'screamed', 'was', 'at', '33', 'when']",1,Joy,ADJ
+"['i', 'just', 'had', 'a', 'thought', 'to', 'try', 'doing', 'uber', 'for', 'fun', '🤔']",-1,Disgust,ADJ
+"['you', 'just', 'admitted', 'russia', 'interferred', '🚨', 'why', ""didn't"", 'you', 'implement', 'the', '?', '?', '?', 'actually', 'they', 'started', '2013', 'yo', '…']",-1,Fear,ADJ
+"['now', 'i', 'got', 'mine', '🤝']",1,Joy,VERB
+"['yoooo', 'my', 'boy', 'happy', 'birthday', 'g', '💯']",1,Joy,ADJ
+"['📸', '|', 'shawn', 'performing', 'at', 'the', '2018', 'echo', 'music', 'awards', '.', '•', 'april', '.', '12', ',', '2018']",0,Surprise,NOUN
+"['a', 'you', '!', '!', '❤']",1,Love,PUNCT
+"['yup', '!', 'espeically', 'the', 'chinese', '😎']",1,Joy,ADJ
+"['we', 'love', 'a', 'short', 'cut', 'and', 'a', 'glow', '😍']",1,Love,ADJ
+"['lol', 'preciate', 'ya', '😌']",1,Joy,ADJ
+"['too', 'many', 'swear', 'words', '.', '😕', 'filth', '.']",-1,Disgust,ADJ
+"['happy', '23rd', 'birthday', 'to', 'packers', '’', 'rb', 'jamaal', 'williams', '🎉', 'williams', 'showed', 'in', 'his', 'rookie', 'season', 'that', 'he', '’', 's', 'capable', 'of', 'being', 'a', 'ver', '…']",1,Joy,NOUN
+"['had', 'an', 'amazing', 'break', 'but', ""i'm"", 'back', 'in', 'the', 'studio', 'today', '💪']",1,Joy,ADJ
+"['retweet', 'for', '150', 'free', 'follows', ',', 'only', 'if', 'you', 'have', 'my', 'notifications', 'on', ',', '5', 'mins', '🍰']",1,Joy,NOUN
+"['i', 'will', 'tell', 'you', 'before', 'our', 'match', '🖤']",1,Love,NOUN
+"['lotta', 'that', 'going', 'on', 'in', 'this', 'administration', '🤔']",-1,Disgust,ADJ

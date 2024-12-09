@@ -1,0 +1,31 @@
+Tokens,Sentiment_score,Sentiment_emotion,Part_of_speech
+"['squad', 'arriving', 'for', 'game', '2', '🚀']",1,Joy,PROPN
+"['followers', '👇']",0,Surprise,ADP
+"['i', 'cant', 'breatiuhw', '💀']",-1,Fear,VERB
+"['4️⃣', 'hours', ""'"", 'til', 'our', 'schedule', 'drops', '!']",0,Joy,NUM
+"['i', '’', 'm', 'live', 'at', 'milk', 'boy', 'studio', 'the', 'home', 'of', 'making', 'some', 'hits', '💪🏾']",1,Joy,ADJ
+"['i', 'am', 'so', 'scared', 'of', 'birds', '🤧']",-1,Fear,ADJ
+"['that', '’', 's', 'me', '😂']",1,Joy,VERB
+"['my', 'heart', 'is', 'so', 'full', 'rn', '💖']",1,Love,NOUN
+"['this', 'is', 'one', 'of', 'my', 'favorite', 'songs', 'to', 'sing', 'in', 'this', 'episode', '❤', '️']",1,Love,VERB
+"['took', 'my', 'goat', 'to', 'get', 'groomed', 'for', 'the', 'first', 'time', '😂']",1,Joy,VERB
+"['this', 'summer', 'i', '’', 'm', 'living', 'my', 'best', 'life', '&', 'i', 'mean', 'that', '🤪']",1,Joy,VERB
+"['kylie', 'jenner', 'shares', 'a', 'video', 'of', 'baby', 'stormi', '👼🏽']",1,Love,PROPN
+"['can', 'someone', 'advise', 'ebony', '’', 's', 'father', 'to', 'keep', 'quite', ',', 'please', '.', '🙏']",-1,Anger,VERB
+"['get', 'this', 'tweet', 'to', '399', 'replies', '!', 'we', 'are', 'running', 'behind', 'in', 'this', 'category', '!', '⚠']",-1,Fear,PUNCT
+"['wonderful', '!', '!', '!', '💁🏼\u200d♀', '️']",1,Joy,ADJ
+"['i', 'see', 'you', '!', '!', '👀']",0,Surprise,VERB
+"['i', 'hate', 'that', 'i', 'cry', 'when', ""i'm"", 'mad', ',', 'cause', ""y'all"", 'be', 'thinking', ""y'all"", 'hurting', 'a', 'youngin', ""'"", 'feelings', '...', 'and', ""that's"", 'truly', 'not', 'it', 'honey', '😂', '…']",1,Anger,VERB
+"['rt', ':', '👉', 'for', 'taxi', '703-445-4450']",0,Surprise,ADP
+"['army', 'vet', 'earl', 'granville', 'carried', 'a', 'woman', 'across', 'the', 'finish', 'line', 'of', 'the', 'boston', 'marathon', 'with', 'one', 'leg', '🇺🇸', '🦅', '…']",1,Joy,ADJ
+"['[', 'insert', 'overused', '""', 'when', 'life', 'hands', 'you', 'lemons', '""', 'phrase', 'here', '.', ']', '🍋', 'recipe', ':']",0,Anger,NOUN
+"['i', 'fall', 'asleep', 'every', 'movie', 'night', 'me', 'and', 'my', 'boyfriend', 'have', ',', 'i', 'would', 'hate', 'me', '😩']",-1,Sadness,VERB
+"['bf', 'definitely', 'since', 'he', 'thinks', 'he', '’', 's', 'the', 'star', 'of', 'the', 'show', '🙄']",-1,Disgust,ADJ
+"['when', 'you', 'realize', 'your', '5', 'page', 'paper', 'is', 'due', 'at', 'midnight', '🙃']",-1,Fear,ADJ
+"['this', 'is', 'why', 'i', 'don', '’', 't', 'reply', 'to', 'people', 'on', 'facebook', '.', 'y', '’', 'all', 'listen', 'to', 'this', '🤦🏾\u200d♀', '️']",-1,Disgust,ADJ
+"['the', 'presenter', 'just', 'wanted', 'her', 'to', 'shut', 'up', '😭']",-1,Sadness,VERB
+"['never', 'forget', '.', '😤']",-1,Anger,ADJ
+"['🚨', 'icymi', '“', 'the', 'united', 'states', 'and', 'britain', 'on', 'monday', 'issued', 'a', 'first-of-its-kind', 'joint', 'warning', 'about', 'russian', 'cyberattacks', '.', 'ru', '…']",-1,Fear,NOUN
+"['i', 'just', 'wrote', 'a', 'whole', 'frickin', 'novel', 'in', 'the', 'dms', 'to', 'and', 'it', 'didn', '’', 't', 'send', 'triggered', '😂']",1,Anger,VERB
+"['🤔', 'no', 'way']",-1,Disgust,ADJ
+"['y', '’', 'all', '.', 'my', 'sister', 'is', 'psychotic', '.', 'once', 'you', 'think', 'it', 'can', '’', 't', 'get', 'worse', ',', 'it', 'does', '😂']",-1,Fear,VERB
