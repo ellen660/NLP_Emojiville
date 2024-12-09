@@ -1,1 +1,3 @@
 # NLP_Emojiville
+
+Embeddings: https://drive.google.com/file/d/1mmSihg4zxrabWEDY0W7Cs-JY1tW7OKpl/view?usp=drive_link 
