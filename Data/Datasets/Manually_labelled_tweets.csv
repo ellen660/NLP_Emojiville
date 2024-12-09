@@ -1,0 +1,31 @@
+﻿Tweet,Sentiment_score,Sentiment_emotion,Part_of_speech
+Squad arriving for Game 2 🚀,[1],['Joy'],['PROPN']
+FOLLOWERS👇,[0],['Surprise'],['ADP']
+I CANT BREATIUHW 💀💀💀,"[-1, -1, -1]","['Fear', 'Fear', 'Fear']","['VERB', 'VERB', 'VERB']"
+2️⃣4️⃣ hours 'til our schedule drops!,"[1, 1]","['Joy', 'Joy']","['NUM',  'NUM']"
+I’m live at Milk Boy studio the home of  making some hits 💪🏾,[1],['Joy'],['ADJ']
+I am SO scared of birds🤧,[-1],['Fear'],['ADJ']
+That’s me 😂😂😂😂😂😂,"[1,1,1,1,1,1]","['Joy', 'Joy', 'Joy', 'Joy', 'Joy', 'Joy']","['VERB', 'VERB, 'VERB', 'VERB', 'VERB', 'VERB']"
+My heart is so full rn 💖💖,"[1, 1]","['Love', 'Love']","['NOUN', 'NOUN']"
+This is one of my favorite songs to sing in this episode ❤️,[1],['Love'],['VERB']
+Took my goat to get groomed for the first time 😂,[1],['Joy'],['VERB']
+this summer i’m living my BEST life &amp; i mean that🤪🤪🤪🤪🤪🤪💯,"[1,1,1,1,1,1,1]","['Joy', 'Joy', 'Joy', 'Joy', 'Joy', 'Joy', Joy']","['VERB', 'VERB', 'VERB', 'VERB', 'VERB', 'VERB', 'NUM']"
+Kylie Jenner shares a video of baby Stormi 👼🏽,[1],['Love'],['PROPN']
+"Can someone advise Ebony’s father to keep quite, please. 🙏",[-1],['Anger'],['VERB']
+🌟Get this tweet to 399 replies!🌟 ➡We are running behind in this category!⚠👇,"[1, 1, 0, -1, 0]","['Joy', 'Joy', 'Surprise', 'Fear', 'Surprise']","['NOUN', 'NOUN', 'ADP', 'PUNCT', 'ADP']"
+WONDERFUL!!!!!!!!!!!!!!!!!!!!!! 💁🏼‍♀️👏✌️,"[1,1,1]","['Joy', 'Joy', 'Joy']","['ADJ', 'VERB', 'VERB']"
+I see you!! 👀👀💁🏼‍♀️,"[0, 0, -1]","['Surprise', 'Surprise', 'Disgust']","['VERB', 'VERB', 'ADJ']"
+"I HATE THAT I CRY WHEN I'M MAD, cause y'all be thinking y'all hurting a youngin' feelings... and that's truly not it honey 😂…",[1],['Anger'],['VERB']
+RT:  🌆 👉🚖 For Taxi 📞703-445-4450,"[0, 0, 0, 0]","['Joy', 'Surprise', 'Joy', 'Surprise']","['NOUN', 'ADP', 'NOUN', 'VERB']"
+Army Vet Earl Granville carried a woman across the finish line of the Boston Marathon with one leg 💪🏻🇺🇸🦅 …,"[1,1]","['Joy', 'Joy']","['ADJ', 'ADJ']"
+"[Insert overused ""when life hands you lemons"" phrase here.] 🍋 RECIPE:",[-1],['Anger'],['NOUN']
+"I fall asleep every movie night me and my boyfriend have , I would hate me😩😂 ","[-1,-1]","['Sadness', 'Sadness']","['VERB', 'VERB']"
+BF definitely since he thinks he’s the star of the show 🙄 ,[-1],['Disgust'],['ADJ']
+When you realize your 5 page paper is due at midnight 🙃 ,[-1],['Fear'],['ADJ']
+This is why I don’t reply to people on Facebook. Y’all listen to this 😂🤦🏾‍♀️ ,"[1, -1]","['Joy', 'Disgust']","['VERB', 'ADJ']"
+the presenter just wanted her to shut up 😂😭 ,"[1, -1]","['Joy', 'Sadness']","['VERB', 'VERB']"
+Never forget. 😤 ,[-1],['Anger'],['ADJ']
+🚨ICYMI🚨 “The United States and Britain on Monday issued a first-of-its-kind joint warning about Russian cyberattacks. Ru… ,"[-1, -1]","['Fear', 'Fear']","['NOUN', 'NOUN']"
+I just wrote A WHOLE FRICKIN NOVEL in the dms to and it didn’t send triggered 😂 ,[1],['Anger'],['VERB']
+🤔 no way 😱,"[-1, -1]","['Disgust', 'Surprise']","['ADJ', 'ADJ']"
+"Y’all. My sister is psychotic. Once you think it can’t get worse, it does 😂😂😂😂 ","[-1, -1, -1, -1]","['Fear', 'Fear', 'Fear', 'Fear']","['VERB', 'VERB', 'VERB', 'VERB']"
