@@ -1,11 +1,9 @@
 import requests
 
-# Replace FILE_ID with your file's ID
-file_id = '<FILE_ID>'
 destination = 'file.zip'
 
 # Download the file
-url = f"https://drive.google.com/uc?id={file_id}&export=download"
+url = f"https://drive.google.com/file/d/1mmSihg4zxrabWEDY0W7Cs-JY1tW7OKpl/view?usp=drive_link"
 response = requests.get(url, stream=True)
 with open(destination, "wb") as f:
     for chunk in response.iter_content(chunk_size=8192):
