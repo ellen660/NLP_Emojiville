@@ -16,14 +16,13 @@ def pos_mappings():
     return {'ADP': 0, 'NOUN': 1, 'VERB': 2, 'PROPN': 3, 'NUM': 4, 'PUNCT': 5, 'ADJ': 6, "INTJ": 7, 'PRON': 1}
 
 cache = {
-    "ada_002": "datasets/10k_gpt_embeddings.pkl",
-    "gpt2": "datasets/gpt2_emoji_embeddings.pkl",
-    "gpt2_sentence": "datasets/gpt2_sentence_embeddings_cache.pkl",
-    # "elmo": "datasets/10k_elmo_embeddings.pkl",
-    'elmo': 'models/emoji_10k_embeddings.pkl',
-    "cbow": "datasets/cbow_embeddings.pkl",
-    # "bert": "datasets/10k_bert_embeddings2.pkl"
-    'bert': 'datasets/emoji_embeddings (1).pkl'
+    "ada_002": "Embeddings/10k_ada_embeddings.pkl",
+    "gpt2": "Embeddings/gpt2_emoji_embeddings.pkl",
+    #"gpt2_sentence": "datasets/gpt2_sentence_embeddings_cache.pkl",
+    'elmo': 'Embeddings/emoji_10k_embeddings.pkl',
+    "cbow": "Embeddings/cbow_embeddings.pkl",
+    "bert": "Embeddings/10k_bert_embeddings2.pkl"
+    #'bert': 'datasets/emoji_embeddings (1).pkl'
 }
 
 class SentimentDataset(Dataset):
