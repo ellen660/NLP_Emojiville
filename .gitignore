@@ -1,0 +1,8 @@
+#ignore all pycache
+__pycache__/
+
+#ignore all .pth
+*.pth
+
+#ignore runs
+runs/
