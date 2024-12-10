@@ -3,7 +3,7 @@ Github repository for NLP emoji probing. This readme details the components of t
 
 Embeddings: https://drive.google.com/file/d/1mmSihg4zxrabWEDY0W7Cs-JY1tW7OKpl/view?usp=drive_link 
 
-Raw data: https://drive.google.com/file/d/16JIhd-AUR8lXMdewwzpvLcCx7qM6lffw/view?usp=sharing 
+Raw data: https://drive.google.com/file/d/1P-yfPFpuZhVQIzmgYbOmpDPU8urDf6Jy/view?usp=sharing 
 # **Emoji Language Embeddings with Fine-Tuned BERT**
 ## **Requirements**
 Install the required dependencies using `pip install -r requirements.txt`.
