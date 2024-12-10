@@ -3,7 +3,7 @@ from Probe.linear_probe import LinearProbe
 import torch
 import torch.nn as nn
 from torch.utils.data import DataLoader, random_split
-from metrics.metrics import MulticlassMetrics
+from Results.metrics import MulticlassMetrics
 import torch.optim as optim
 from torch.utils.tensorboard import SummaryWriter
 from tqdm import tqdm
