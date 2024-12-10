@@ -1,5 +1,5 @@
-from datasets.dataloader import SentimentDataset, ControlDataset
-from models.linear_probe import LinearProbe
+from Probe.dataloader import SentimentDataset, ControlDataset
+from Probe.linear_probe import LinearProbe
 import torch
 import torch.nn as nn
 from torch.utils.data import DataLoader, random_split
