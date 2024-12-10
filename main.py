@@ -40,7 +40,7 @@ mapping_model = {
 }
 model_name = 'gpt2'
 batch_size = 48
-csv_file = 'datasets/emojify_cleaned_10k_labelled.csv'
+csv_file = 'Data/Datasets/emojify_cleaned_10k_labelled.csv'
 num_epochs = 75
 learning_rate = 1e-5
 weight_decay = 0.001
